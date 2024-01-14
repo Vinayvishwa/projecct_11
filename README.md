@@ -1,3 +1,3 @@
 # projecct_11
-collage mini projecct
+collage mini projecct:
 author -Vinay Vishwakarma
